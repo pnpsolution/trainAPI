@@ -1,0 +1,8 @@
+apps:
+  - script   : './build/server.js'
+    name     : 'train-api.pnpsw.com'
+    exec_mode: 'cluster'
+    instances: 2
+    env:
+        NODE_ENV: 'production'
+        PORT: 9590

@@ -1,0 +1,19 @@
+{
+    "Config": {
+        "mysql": {
+            "host": "192.168.99.100",
+            "user": "my_db",
+            "password": "my_db",
+            "database": "my_db",
+            "connectionLimit": 10,
+            "multipleStatements": true
+        },
+        "uploadPath": "/uploads/",
+        "auth": {
+            "jwtSecret": "MyS3cr3tK3Y",
+            "jwtSession": {
+                "session": false
+            }
+        }
+    }
+}
