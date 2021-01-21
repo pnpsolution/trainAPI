@@ -23,7 +23,7 @@
     "nodemailer": "^4.6.4",
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {},
   "scripts": {
