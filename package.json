@@ -10,7 +10,7 @@
     "@types/passport-jwt": "^2.0.24",
     "@types/socket.io": "^1.4.33",
     "apicache": "^1.0.0",
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "body-parser": "^1.17.2",
     "config": "^1.26.2",
     "cors": "^2.8.4",
